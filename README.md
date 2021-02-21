@@ -1,2 +1,2 @@
 # dynamic-diagram
-JS canvas animation
+Javascript JS canvas animation
